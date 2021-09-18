@@ -1,8 +1,13 @@
 ### Welcome to my profile! 👋 I'm Enas
 
+<img width="250" src="https://media.giphy.com/media/M1kwSqWl31wtCoMLiB/giphy.gif">
+                      
+<img width="250" src="https://media.giphy.com/media/wHRrT9OBtvzCchB9rL/giphy.gif">
 
-<iframe src="https://giphy.com/embed/M1kwSqWl31wtCoMLiB" width="480" height="468" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/NeighborlyNotaryNYC-roberta-arnone-neighborly-notary-initial-M1kwSqWl31wtCoMLiB">via GIPHY</a></p>
-
+<img width="250" src="https://media.giphy.com/media/B4ogVmM2h2VcN8Mjjw/giphy.gif">
+                      
+<img width="250" src="https://media.giphy.com/media/wcgbmsxrSeEG1thAmI/giphy.gif">
+  
 <!--
 **enas-elm/enas-elm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
