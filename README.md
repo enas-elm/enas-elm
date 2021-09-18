@@ -1,8 +1,7 @@
  <h1 align='center'>
 🎀 Welcome to my profile! 🎀
 <br><br>
-  I'm
-  <br><br>
+  I am
   </h1>
 
 
@@ -34,11 +33,13 @@
 
 </table>
  
-<br>
+<br><br><br>
 
 ## Things about me 💁‍♀️
 
-<img src="https://media.giphy.com/media/4d31t2t9fWGgU/giphy.gif" align="right">
+<div style="width:100%;height:0;padding-bottom:113%;position:relative;">
+<img width="40%" height="40%" style="position:absolute"  src="https://media.giphy.com/media/4d31t2t9fWGgU/giphy.gif" align="right">
+</div>
  
 ###  🌺 Learning web development in Paris
 
@@ -59,6 +60,17 @@
 🛌 Sleeping
 </li>
 
+<br><br><br>
+
+<div align="center">
+ 
+## 🎀 Thank you for reading and have a nice day! 🎀
+
+<div style="width:100%;height:0;padding-bottom:113%;position:relative;">
+<img width="40%" height="40%" style="position:absolute"  src="https://media.giphy.com/media/F99PZtJC8Hxm0/giphy.gif">
+</div>
+
+</div>
                                                                                                                    
 
                                                                                                                           
