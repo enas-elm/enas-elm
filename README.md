@@ -1,7 +1,7 @@
 ### Welcome to my profile! 👋 I'm Enas
 
 <div style="width:100%;height:0;padding-bottom:113%;position:relative;">
-<img width="100%" height="100%" style="position:absolute"  src="https://media.giphy.com/media/M1kwSqWl31wtCoMLiB/giphy.gif">
+<img width="20%" height="20%" style="position:absolute"  src="https://media.giphy.com/media/M1kwSqWl31wtCoMLiB/giphy.gif">
 </div>
                       
 <img width="250" src="https://media.giphy.com/media/wHRrT9OBtvzCchB9rL/giphy.gif">
