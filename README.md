@@ -1,31 +1,31 @@
-### Welcome to my profile! 👋 I'm Enas
+### Welcome to my profile! 👋 I'm 
 
 <table>
-  <tr>
-    <td align="center" width="96">
-      <div style="width:100%;height:0;padding-bottom:113%;position:relative;">
-        <img width="20%" height="20%" style="position:absolute"  src="https://media.giphy.com/media/M1kwSqWl31wtCoMLiB/giphy.gif">
-      </div>
-    <td/>
-    
-    <td align="center" width="96">
-       <div style="width:100%;height:0;padding-bottom:113%;position:relative;">
-        <img width="20%" height="20%" style="position:absolute" src="https://media.giphy.com/media/wHRrT9OBtvzCchB9rL/giphy.gif">
-       </div> 
-    <td/>
-  
-     <td align="center" width="96">
-       <div style="width:100%;height:0;padding-bottom:113%;position:relative;">
-        <img width="20%" height="20%" style="position:absolute"src="https://media.giphy.com/media/B4ogVmM2h2VcN8Mjjw/giphy.gif">
-       </div>
-     <td/>   
-  
-      <td align="center" width="96">
-        <div style="width:100%;height:0;padding-bottom:113%;position:relative;">  
-          <img width="20%" height="20%" style="position:absolute" src="https://media.giphy.com/media/wcgbmsxrSeEG1thAmI/giphy.gif">
-        </div>
-      <td/>
-  <tr/>
+
+<td>
+<div style="width:100%;height:0;padding-bottom:113%;position:relative;">
+<img width="50%" height="50%" style="position:absolute"  src="https://media.giphy.com/media/M1kwSqWl31wtCoMLiB/giphy.gif">
+</div>
+<td/>
+
+<td>
+<div style="width:100%;height:0;padding-bottom:113%;position:relative;">
+<img width="50%" height="50%" style="position:absolute" src="https://media.giphy.com/media/wHRrT9OBtvzCchB9rL/giphy.gif">
+</div> 
+<td/>
+
+<td>
+<div style="width:100%;height:0;padding-bottom:113%;position:relative;">
+<img width="50%" height="50%" style="position:absolute"src="https://media.giphy.com/media/B4ogVmM2h2VcN8Mjjw/giphy.gif">
+</div>
+<td/>   
+
+<td>
+<div style="width:100%;height:0;padding-bottom:113%;position:relative;">  
+<img width="50%" height="50%" style="position:absolute" src="https://media.giphy.com/media/wcgbmsxrSeEG1thAmI/giphy.gif">
+</div>
+<td/>
+
 <table>
                                                                                                                    
 
