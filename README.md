@@ -48,6 +48,9 @@
 
 ### 🌺 Things I 💗:
 <li>
+💻	Coding
+</li>
+<li>
 🥊 Sports
 </li>
 <li>
