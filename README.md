@@ -2,7 +2,7 @@
 
 I'm **Enas EL MERSHATI**, a passionate **web developer** who loves turning ideas into clean, functional, and immersive digital experiences.
 
-## 🚀 What I do
+## 👩‍💻 What I do
 
 - 💻 Frontend & Backend development  
 - 🎨 UI/UX design
