@@ -1,6 +1,6 @@
 # 👋 Welcome to my profile
 
-I'm **Enas**, a passionate **web developer** who loves turning ideas into clean, functional and immersive digital experiences.
+I'm **Enas**, a passionate **web developer** who loves turning ideas into clean and immersive digital experiences.
 
 ## 👩‍💻 What I do
 
